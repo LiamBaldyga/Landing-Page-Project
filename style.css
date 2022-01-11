@@ -90,7 +90,7 @@ a {
     border-radius: 10px;
     border: 3px solid black;
 }
-.content-images img[src="/images/lace.jpg"] {
+.content-images img[src="./images/lace.jpg"] {
     object-position: 15% 0;
 }
 .content-images p {
